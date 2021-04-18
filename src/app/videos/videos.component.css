@@ -1,0 +1,17 @@
+ .table{
+  /*  background:lightskyblue; */
+  background:#000000;
+
+ }
+
+ .pagination{
+   background-color: black;
+ }
+
+ .thead-dark{
+   color: black;
+ }
+
+ th{
+   color: white;
+ }
